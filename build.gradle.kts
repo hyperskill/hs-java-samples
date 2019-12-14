@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application
-    mainClassName = "hs.java.samples.App"
+    mainClassName = "org.hyperskill.samples.App"
 }
 
 val test by tasks.getting(Test::class) {
